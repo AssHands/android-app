@@ -1,0 +1,7 @@
+<resources>
+    <color name="purple_80">#D0BCFF</color>
+    <color name="purple_grey_80">#CCC2DC</color>
+    <color name="pink_80">#EFB8C8</color>
+    <color name="background_light">#FFFFFF</color>
+    <color name="text_primary">#000000</color>
+</resources>

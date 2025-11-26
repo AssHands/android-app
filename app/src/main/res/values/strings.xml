@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Clean Weather</string>
+    <string name="search_hint">Введите город...</string>
+    <string name="search_button">Найти</string>
+    <string name="error_generic">Произошла ошибка</string>
+    <string name="loading">Загрузка...</string>
+    <string name="humidity">Влажность: %1$s%%</string>
+    <string name="wind_speed">Ветер: %1$s м/с</string>
+    <string name="feels_like">Ощущается как: %1$s°C</string>
+    <string name="temperature_format">%1$s°C</string>
+</resources>
