@@ -24,12 +24,10 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ) {
                     val navController = rememberNavController()
-                    // RootActivity является контейнером для навигации
                     NavHost(navController = navController, startDestination = "weather_screen") {
                         composable("weather_screen") {
                             WeatherScreen()
                         }
-                        // Дополнительные экраны можно добавить здесь, не загромождая Activity
                     }
                 }
             }
