@@ -22,8 +22,8 @@
    ```bash
    git clone https://github.com/AssHands/android-app.git
 
-2. Получите API ключ на сайте https://api.openweathermap.org/ 
+2. Получите API ключ на сайте https://api.openweathermap.org/
 
-3. Перейдите в класс com.example.cleanweather.data.repository.WeatherRepositoryImpl 
+3. Перейдите в класс **com.example.cleanweather.data.repository.WeatherRepositoryImpl**
 
-4. Вставтьте свой API ключ в переменную "apiKey"
+4. Вставтьте свой API ключ в переменную **apiKey**
