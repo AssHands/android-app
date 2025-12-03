@@ -20,4 +20,4 @@
 ## Запуск проекта
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/<username>/<repo>.git
+   git clone https://github.com/AssHands/android-app.git
